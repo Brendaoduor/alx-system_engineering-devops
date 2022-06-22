@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 dropbox movies
+=======
+dropbox movies pictures
+>>>>>>> c6111daf85238a5b8d8ffc2c39ca38a4ed610855
