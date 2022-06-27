@@ -16,3 +16,4 @@
 15.script displays the number of lines that contain the pattern bin in the file /etc/passwd
 16.script displays 3 lines after the search pattern matching with '-A'
 17.prints the lines that exclude the search pattern required
+18.displays all line of the file that start with a letter
