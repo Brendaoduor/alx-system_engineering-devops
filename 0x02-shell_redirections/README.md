@@ -9,3 +9,4 @@
 8.script writes the result of a command 'ls -la' into a file
 9.script duplicates the last line of the file
 10.script deletes all files that have a '.js' extension
+11.script counts number of directories and sub-dir in the current directory
