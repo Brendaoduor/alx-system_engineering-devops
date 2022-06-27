@@ -8,3 +8,4 @@
 7.script creates and adds content to non exixting file
 8.script writes the result of a command 'ls -la' into a file
 9.script duplicates the last line of the file
+10.script deletes all files that have a '.js' extension
