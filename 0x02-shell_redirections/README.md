@@ -14,3 +14,4 @@
 13.script prints only words that appear once from the input
 14.script displays lines containing the pattern 'root' from file /etc/passwd
 15.script displays the number of lines that contain the pattern bin in the file /etc/passwd
+16.script displays 3 lines after the search pattern matching with '-A'
