@@ -2,4 +2,5 @@
 1.script displays confused smiley on the terminal
 2.script displays the contents of a file /etc/passwd
 3.script dsplays contents of two files concurrently
-4.script displays the last 4 lines of a file
+4.script displays the last 10 lines of a file
+5.script displays first 10 lines of a file
