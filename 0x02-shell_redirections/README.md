@@ -12,3 +12,4 @@
 11.script counts number of directories and sub-dir in the current directory
 12.script prints list of files each in new line
 13.script prints only words that appear once from the input
+14.script displays lines containing the pattern 'root' from file /etc/passwd
