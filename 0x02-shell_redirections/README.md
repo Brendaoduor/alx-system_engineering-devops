@@ -17,3 +17,4 @@
 16.script displays 3 lines after the search pattern matching with '-A'
 17.prints the lines that exclude the search pattern required
 18.displays all line of the file that start with a letter
+19.script tha replaces char 'Ac' with 'Ze'
