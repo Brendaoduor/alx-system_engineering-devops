@@ -7,3 +7,4 @@
 6.script displays the third line of a file
 7.script creates and adds content to non exixting file
 8.script writes the result of a command 'ls -la' into a file
+9.script duplicates the last line of the file
