@@ -10,3 +10,4 @@
 9.script duplicates the last line of the file
 10.script deletes all files that have a '.js' extension
 11.script counts number of directories and sub-dir in the current directory
+12.script prints list of files each in new line
