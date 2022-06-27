@@ -4,3 +4,4 @@
 3.script dsplays contents of two files concurrently
 4.script displays the last 10 lines of a file
 5.script displays first 10 lines of a file
+6.script displays the third line of a file
