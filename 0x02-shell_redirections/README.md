@@ -5,3 +5,4 @@
 4.script displays the last 10 lines of a file
 5.script displays first 10 lines of a file
 6.script displays the third line of a file
+7.script creates and adds content to non exixting file
