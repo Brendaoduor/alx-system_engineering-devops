@@ -21,3 +21,5 @@
 20.script removes all letters uppercase and lowercase of 'Cc'
 21.reverses the input using the the rev command
 22.list all users and their home directories
+23.script lists all files and directories that are empty in current directory
+24.script lists all files with .gif extension
