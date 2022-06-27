@@ -19,3 +19,4 @@
 18.displays all line of the file that start with a letter
 19.script tha replaces char 'Ac' with 'Ze'
 20.script removes all letters uppercase and lowercase of 'Cc'
+21.reverses the input using the the rev command
