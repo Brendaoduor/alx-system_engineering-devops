@@ -11,3 +11,4 @@
 10.script displays the result of BREATH to the power LOVE
 11.script converts number from base 2 to base 10
 12.script prints all possible combinatins of two letters from {a..z} except for 'oo' combination
+13.script prints a number with two decimal places followed by new line
