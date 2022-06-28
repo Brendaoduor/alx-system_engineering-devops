@@ -8,3 +8,5 @@
 7.script creates a global variable
 8.script adds 128 with value in environment variable
 9.script divides the environment variable POWER and DIVIDE
+10.script displays the result of BREATH to the power LOVE
+
