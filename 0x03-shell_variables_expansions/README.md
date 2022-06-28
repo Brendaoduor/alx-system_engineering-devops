@@ -12,3 +12,7 @@
 11.script converts number from base 2 to base 10
 12.script prints all possible combinatins of two letters from {a..z} except for 'oo' combination
 13.script prints a number with two decimal places followed by new line
+14.script does conversion of numbers from decimal to hexadecimal
+15.script does encoding and decoding text using rot13 encryption
+16.script prints every other line from the input, beginning with the first line
+17.script adds two numbers stored in environment variables $WATER and $STIR
