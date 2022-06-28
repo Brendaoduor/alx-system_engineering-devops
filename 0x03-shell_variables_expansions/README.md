@@ -6,3 +6,4 @@
 5.script prints all variables(local and enviroment) and functions
 6.script creates a local variable
 7.script creates a global variable
+8.script adds 128 with value in environment variable
