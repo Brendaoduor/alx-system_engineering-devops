@@ -23,3 +23,5 @@
 22.list all users and their home directories
 23.script lists all files and directories that are empty in current directory
 24.script lists all files with .gif extension
+25.script prints the first letter of the acrostic
+26.script parses webservers logs in tsv format
